@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Drone Show event","image":"https://collmot.com/user/themes/g5_helium/custom/images/header/img03.jpg","date":"2023-08-03","description":"Drone show exclusively organised in Berklin view park ","id":"9a505175-34d9-4d41-9d68-8f4a5c642286"},{"title":"Exclusive discussion on React.js","image":"https://hatichongcollege.org.in/wp-content/uploads/2023/01/62196607bf1b46ebfb301f19.jpeg","date":"2023-07-27","description":"This meeting is designed for front-end developers who is interested in React.js.\nBest of luck!","id":"85b3ea65-e3a4-4a85-8287-bb11576d3d30"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
